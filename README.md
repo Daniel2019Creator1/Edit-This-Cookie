@@ -1,4 +1,4 @@
-EditThisCookie
+EditThisCookie-2.0
 ========================
 
 Description
@@ -16,6 +16,7 @@ Inspired by the lack of good cookie managers in Google Chrome, I developed this 
 * Export cookies in JSON, Netscape cookie file (perfect for wget and curl), Perl::LPW
 * Import cookies in JSON
 * Limit the maximum expiration date of any cookie
+* Added Github.Workflows and added and also fixed some stuff
 
 
 Contributing
